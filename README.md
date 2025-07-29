@@ -24,6 +24,14 @@ This project controls four servo motors one by one, sweeping each from 0° to 18
 # How to Run the Project
  1. Launch a new Arduino circuit in Tinkercad.
  2. Drag in an Arduino Uno and connect 4 servo motors.
- 3. Follow the wiring guide shown in [
- 4. Upload the code from servo_sweep_control.ino into the code editor.
- 5. Press Start Simulation — the servos will sweep one after another, then reset to 90°.
+ 3. Follow the wiring guide shown in servo circuit
+ 4. Upload the code from servo_41 into the code editor.
+ 5. Press Start Simulation — the servos will sweep one after another, then reset to 90°
+
+# servo circuit diagram 
+
+
+https://github.com/user-attachments/assets/530ab73a-db53-47cd-be0b-630f7f988a92
+
+
+
